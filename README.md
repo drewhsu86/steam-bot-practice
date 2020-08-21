@@ -13,7 +13,7 @@ I just wanted to try making a Steam bot that responds to chat messages, using th
   
 ## How to use 
 
-To run the bot, first create a .env file with a valid Steam USERNAME and PASSWORD as .env variables. 
+To run the bot, first create a .env file with a valid Steam USERNAME and PASSWORD as .env variables. Also remember to npm i/npm install.
 
 Then, use either:
 
