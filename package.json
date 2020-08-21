@@ -1,0 +1,19 @@
+{
+  "name": "steam-bot-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jest": "^26.4.1",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.17.1"
+  }
+}

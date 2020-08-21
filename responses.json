@@ -1,0 +1,26 @@
+[
+  {
+    "contains": [
+      "what are you doin",
+      "what r u doin"
+    ],
+    "response": "func- whatDoing"
+  },
+  {
+    "contains": ["bored"],
+    "response": "func- boredResponse"
+  },
+  {
+    "contains": ["hey"],
+    "response": "Don't 'hey' me! Show me some respect!"
+  },
+  {
+    "isEquals": [
+      "ok", "okay", "huh", "yeah", "yes"
+    ],
+    "response": "okay"
+  }, {
+    "contains": ["._."],
+    "response": "(._. )"
+  }
+]
